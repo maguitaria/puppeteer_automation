@@ -50,7 +50,7 @@ The script will perform the following actions:
 
 You can customize the script for your specific use case or further process the captured data as needed.
 ## Future enhancements
-- Add locator for English menu and send it to email.
+- Add  CSS locator for English menu and send it to email.
 - Go to each meal calories estimation and estimate what is the healthiest option.
 - Any suggestions?
 

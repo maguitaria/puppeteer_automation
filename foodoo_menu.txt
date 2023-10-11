@@ -1,23 +1,23 @@
 
 Foodoo Reilu
-ti
-keskiviikko 11.10.2023
+ke
+torstai 12.10.2023
 
-to
+pe
 Rajaa ruokavalion tai allergeenien mukaan
 
 
 KASVIS OP
-Kasvisnyhtöstroganoff M,G,Mu,Veg
+Soija-kidneypapu-kasvislasagnette Mu, VEG, *, M
 
 
-LOUNAS I
-Metwursti-jalapenolasagnette Mu, *, M
+LOUNAS I Mu, M
+Riistapyörykkä Mu, M
+Tumma metsäsienikastike G, Mu, M
 
 
-LOUNAS II G, Mu
-Gluteeniton kalapuikko G, Mu, *, M
-Kermainen tillikastike G, Mu, L
+LOUNAS II
+Possu-inkivääripata G, Mu, *, M
 
 
 LÄMPIMÄT LISUKKEET VEG

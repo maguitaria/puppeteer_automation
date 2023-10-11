@@ -1,22 +1,24 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://fi.jamix.cloud/apps/menu/?anro=93077&k=48&mt=89
 Subject: JAMIX MENU
-Date: Wed, 11 Oct 2023 20:54:02 -0000
+Date: Wed, 11 Oct 2023 21:06:27 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----"
+	boundary="----MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----"
 
 
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/html
-Content-ID: <frame-92BEF3BADF33D64C50C4FA2C02841CAF@mhtml.blink>
+Content-ID: <frame-1E6045B698E414983E67936F0449E72F@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://fi.jamix.cloud/apps/menu/?anro=93077&k=48&mt=89
 
-<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
-t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
-"cid:css-18e0a2d3-7e22-4469-9a9e-84b79c1b3b55@mhtml.blink" />
+<!DOCTYPE html><html lang=3D"fi"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-2755de2d-4390-40cf-8516-5a6e3f0744b6@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-06eeae7c-83b5-400a=
+-8f72-c3722223e043@mhtml.blink" />
   <meta name=3D"msapplication-tap-highlight" content=3D"no">
   <meta name=3D"msapplication-config" content=3D"/apps/menu/VAADIN/themes/m=
 enu/icons/browserconfig.xml?v=3D2021">
@@ -70,25 +72,215 @@ eet" href=3D"https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/f=
 i.jamix.menu.widgetset.MenuWidgetSet/cropper/style.css"></head>
  <body scroll=3D"auto" class=3D"v-generated-body v-sa v-sa5 v-sa50 v-webkit=
  v-mac">
-  <div id=3D"appsmenu-1186092753" class=3D"v-app menu menuui">
-   <div class=3D"v-app-loading"></div>
-  =20
-  </div>
+  <div id=3D"appsmenu-1186092753" class=3D"v-app menu menuui"><div tabindex=
+=3D"1" class=3D"v-ui v-scrollable" style=3D"width: 100%; height: 100%;"><di=
+v class=3D"v-loading-indicator first" style=3D"position: absolute; display:=
+ none;"></div><div class=3D"v-customcomponent v-widget v-has-width v-has-he=
+ight" id=3D"main-view" style=3D"position: absolute; width: 100%; height: 10=
+0%; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webki=
+t-tap-highlight-color: rgba(0, 0, 0, 0);"><div class=3D"v-verticallayout v-=
+layout v-vertical v-widget main-view v-verticallayout-main-view v-has-width=
+ v-has-height" style=3D"width: 100%; height: 100%;"><div class=3D"v-expand"=
+ style=3D"padding-top: 151px;"><div class=3D"v-slot" style=3D"margin-top: -=
+151px;"><div class=3D"v-customcomponent v-widget v-has-width" style=3D"widt=
+h: 100%;"><div class=3D"v-customlayout v-layout v-widget header v-customlay=
+out-header v-has-width" style=3D"border-style: none; margin: 0px; padding: =
+0px; width: 100%;"><div class=3D"main-container">
+    <div class=3D"button-navigation button-navigation--previous" location=
+=3D"previous"><div tabindex=3D"-1" role=3D"button" class=3D"v-button v-disa=
+bled v-widget navigation v-button-navigation navigation--previous v-button-=
+navigation--previous borderless v-button-borderless icon-only v-button-icon=
+-only v-has-height" aria-disabled=3D"true" style=3D"height: 100%;"><span cl=
+ass=3D"v-button-wrap"><span class=3D"v-icon FontAwesome">=EF=81=A0</span><s=
+pan class=3D"v-button-caption"></span></span></div></div>
+    <div class=3D"caption-container">
+        <div class=3D"label-main-caption" location=3D"maincaption"><div cla=
+ss=3D"v-label v-widget title v-label-title v-has-width" style=3D"width: 100=
+%;">Foodoo Reilu</div></div>
+        <div class=3D"sub-caption-container">
+            <div class=3D"button-date-selection button-date-selection--prev=
+ious" location=3D"previousdate"><div tabindex=3D"0" role=3D"button" class=
+=3D"v-button v-widget date v-button-date date--previous v-button-date--prev=
+ious borderless v-button-borderless small v-button-small"><span class=3D"v-=
+button-wrap"><span class=3D"v-icon FontAwesome">=EF=84=84</span><span class=
+=3D"v-button-caption">ke</span></span></div></div>
+            <div class=3D"label-sub-caption" location=3D"subcaption"><div c=
+lass=3D"v-label v-widget sub-title v-label-sub-title v-has-width" style=3D"=
+width: 100%;">torstai 12.10.2023</div></div>
+            <div class=3D"button-date-selection button-date-selection--next=
+" location=3D"nextdate"><div tabindex=3D"0" role=3D"button" class=3D"v-butt=
+on v-widget date v-button-date date--next v-button-date--next icon-align-ri=
+ght v-button-icon-align-right borderless v-button-borderless small v-button=
+-small"><span class=3D"v-button-wrap"><span class=3D"v-icon FontAwesome">=
+=EF=84=85</span><span class=3D"v-button-caption">pe</span></span></div></di=
+v>
+        </div>
+        <div class=3D"filter-by-diet-container" location=3D"filterByDate"><=
+div tabindex=3D"0" role=3D"button" class=3D"v-button v-widget borderless v-=
+button-borderless small v-button-small filter-by-diet v-button-filter-by-di=
+et"><span class=3D"v-button-wrap"><span class=3D"v-icon FontAwesome">=EF=80=
+=82</span><span class=3D"v-button-caption">Rajaa ruokavalion tai allergeeni=
+en mukaan</span></span></div></div>
+    </div>
+    <div class=3D"button-navigation button-navigation--home" location=3D"ho=
+me"><div tabindex=3D"-1" role=3D"button" class=3D"v-button v-disabled v-wid=
+get navigation v-button-navigation navigation--home v-button-navigation--ho=
+me borderless v-button-borderless icon-only v-button-icon-only v-has-height=
+" aria-disabled=3D"true" style=3D"height: 100%;"><span class=3D"v-button-wr=
+ap"><span class=3D"v-icon FontAwesome">=EF=80=95</span><span class=3D"v-but=
+ton-caption"></span></span></div></div>
+</div>
+</div></div></div><div class=3D"v-slot v-slot-main-view__content v-slot-bor=
+derless v-align-center v-align-middle" style=3D"height: 100%;"><div class=
+=3D"v-panel v-widget main-view__content v-panel-main-view__content borderle=
+ss v-panel-borderless v-has-width v-has-height" style=3D"overflow: hidden; =
+width: 100%; height: 100%; padding-top: 0px; padding-bottom: 0px;"><div cla=
+ss=3D"v-panel-captionwrap" style=3D"margin-top: 0px;"><div class=3D"v-panel=
+-nocaption v-panel-nocaption-main-view__content v-panel-nocaption-borderles=
+s"><span></span></div></div><div class=3D"v-panel-content v-panel-content-m=
+ain-view__content v-panel-content-borderless v-scrollable" tabindex=3D"-1" =
+style=3D"position: relative;"><div class=3D"v-verticallayout v-layout v-ver=
+tical v-widget menu-sub-view v-verticallayout-menu-sub-view animated v-vert=
+icallayout-animated fade-in-right v-verticallayout-fade-in-right v-has-widt=
+h v-margin-top v-margin-right v-margin-bottom v-margin-left" style=3D"width=
+: 100%;"><div class=3D"v-slot v-slot-multiline v-slot-icon-align-right"><di=
+v tabindex=3D"0" role=3D"button" class=3D"v-button v-widget multiline v-but=
+ton-multiline icon-align-right v-button-icon-align-right v-has-width" style=
+=3D"width: 100%;"><span class=3D"v-button-wrap"><span class=3D"v-icon FontA=
+wesome">=EF=84=85</span><span class=3D"v-button-caption"><span class=3D"mul=
+tiline-button-caption-text">KASVIS OP</span><hr><span class=3D"multiline-bu=
+tton-content-text"><span class=3D"menu-item"><span class=3D"item-name">Soij=
+a-kidneypapu-kasvislasagnette</span> <span class=3D"menuitem-diets">Mu, VEG=
+, *, M</span></span><br></span></span></span></div></div><div class=3D"v-sp=
+acing"></div><div class=3D"v-slot v-slot-multiline v-slot-icon-align-right"=
+><div tabindex=3D"0" role=3D"button" class=3D"v-button v-widget multiline v=
+-button-multiline icon-align-right v-button-icon-align-right v-has-width" s=
+tyle=3D"width: 100%;"><span class=3D"v-button-wrap"><span class=3D"v-icon F=
+ontAwesome">=EF=84=85</span><span class=3D"v-button-caption"><span class=3D=
+"multiline-button-caption-text">LOUNAS I <span class=3D"mealoption-diets">M=
+u, M</span></span><hr><span class=3D"multiline-button-content-text"><span c=
+lass=3D"menu-item"><span class=3D"item-name">Riistapy=C3=B6rykk=C3=A4</span=
+> <span class=3D"menuitem-diets">Mu, M</span></span><br></span><span class=
+=3D"multiline-button-content-text"><span class=3D"menu-item"><span class=3D=
+"item-name">Tumma mets=C3=A4sienikastike</span> <span class=3D"menuitem-die=
+ts">G, Mu, M</span></span><br></span></span></span></div></div><div class=
+=3D"v-spacing"></div><div class=3D"v-slot v-slot-multiline v-slot-icon-alig=
+n-right"><div tabindex=3D"0" role=3D"button" class=3D"v-button v-widget mul=
+tiline v-button-multiline icon-align-right v-button-icon-align-right v-has-=
+width" style=3D"width: 100%;"><span class=3D"v-button-wrap"><span class=3D"=
+v-icon FontAwesome">=EF=84=85</span><span class=3D"v-button-caption"><span =
+class=3D"multiline-button-caption-text">LOUNAS II</span><hr><span class=3D"=
+multiline-button-content-text"><span class=3D"menu-item"><span class=3D"ite=
+m-name">Possu-inkiv=C3=A4=C3=A4ripata</span> <span class=3D"menuitem-diets"=
+>G, Mu, *, M</span></span><br></span></span></span></div></div><div class=
+=3D"v-spacing"></div><div class=3D"v-slot v-slot-multiline v-slot-icon-alig=
+n-right"><div tabindex=3D"0" role=3D"button" class=3D"v-button v-widget mul=
+tiline v-button-multiline icon-align-right v-button-icon-align-right v-has-=
+width" style=3D"width: 100%;"><span class=3D"v-button-wrap"><span class=3D"=
+v-icon FontAwesome">=EF=84=85</span><span class=3D"v-button-caption"><span =
+class=3D"multiline-button-caption-text">L=C3=84MPIM=C3=84T LISUKKEET <span =
+class=3D"mealoption-diets">VEG</span></span><hr><span class=3D"multiline-bu=
+tton-content-text"><span class=3D"menu-item"><span class=3D"item-name">H=C3=
+=B6yryperunat</span> <span class=3D"menuitem-diets">G, Mu, VEG, *, M</span>=
+</span><br></span><span class=3D"multiline-button-content-text"><span class=
+=3D"menu-item"><span class=3D"item-name">Tumma pasta</span> <span class=3D"=
+menuitem-diets">Mu, VEG, *, L, M</span></span><br></span><span class=3D"mul=
+tiline-button-content-text"><span class=3D"menu-item"><span class=3D"item-n=
+ame">T=C3=A4ysjyv=C3=A4riisi</span> <span class=3D"menuitem-diets">G, Mu, V=
+EG, *, M</span></span><br></span><span class=3D"multiline-button-content-te=
+xt"><span class=3D"menu-item"><span class=3D"item-name">L=C3=A4mmin kasvisl=
+is=C3=A4ke</span> <span class=3D"menuitem-diets">G, VEG</span></span><br></=
+span></span></span></div></div><div class=3D"v-spacing"></div><div class=3D=
+"v-slot v-slot-borderless v-slot-diet-factors"><div class=3D"v-panel v-widg=
+et borderless v-panel-borderless diet-factors v-panel-diet-factors v-has-wi=
+dth" style=3D"overflow: hidden; width: 100%; padding-top: 40px; padding-bot=
+tom: 0px;"><div class=3D"v-panel-captionwrap" style=3D"margin-top: -40px;">=
+<div class=3D"v-panel-caption v-panel-caption-borderless v-panel-caption-di=
+et-factors"><span>Ruokavaliot</span></div></div><div class=3D"v-panel-conte=
+nt v-panel-content-borderless v-panel-content-diet-factors v-scrollable" ta=
+bindex=3D"-1" style=3D"position: relative;"><div class=3D"v-verticallayout =
+v-layout v-vertical v-widget v-has-width" style=3D"width: 100%;"><div class=
+=3D"v-slot v-align-center v-align-middle"><div class=3D"v-label v-widget v-=
+label-undef-w"><table class=3D"diet-factors"><tbody><tr><td>G</td><td>=3D</=
+td><td>gluteeniton / glutenfri / gluten-fre</td></tr><tr><td>L</td><td>=3D<=
+/td><td>laktoositon / laktosfri / lactose-fr</td></tr><tr><td>M</td><td>=3D=
+</td><td>maidoton / mj=C3=B6lkfri / dairy-free</td></tr><tr><td>Mu</td><td>=
+=3D</td><td>munaton  /inte =C3=A4gg  /no egg</td></tr><tr><td>VEG</td><td>=
+=3D</td><td>Vegaaninen</td></tr><tr><td>*</td><td>=3D</td><td>Suositusten m=
+ukainen</td></tr></tbody></table></div></div></div></div><div class=3D"v-pa=
+nel-deco v-panel-deco-borderless v-panel-deco-diet-factors" style=3D"margin=
+-bottom: 0px;"></div></div></div></div></div><div class=3D"v-panel-deco v-p=
+anel-deco-main-view__content v-panel-deco-borderless" style=3D"margin-botto=
+m: 0px;"></div></div></div><div class=3D"v-slot v-slot-footer"><div class=
+=3D"v-csslayout v-layout v-widget footer v-csslayout-footer v-has-width" st=
+yle=3D"width: 100%;"><div tabindex=3D"-1" role=3D"button" class=3D"v-button=
+ v-disabled v-widget language v-button-language borderless v-button-borderl=
+ess small v-button-small" aria-disabled=3D"true"><span class=3D"v-button-wr=
+ap"><span class=3D"v-button-caption">Suomi</span></span></div><div tabindex=
+=3D"0" role=3D"button" class=3D"v-button v-widget language v-button-languag=
+e borderless v-button-borderless small v-button-small"><span class=3D"v-but=
+ton-wrap"><span class=3D"v-button-caption">English</span></span></div><div =
+tabindex=3D"0" role=3D"button" class=3D"v-button v-widget language v-button=
+-language borderless v-button-borderless small v-button-small"><span class=
+=3D"v-button-wrap"><span class=3D"v-button-caption">Svenska</span></span></=
+div></div></div></div></div></div></div></div>
  =20
  =20
 =20
 <iframe id=3D"fi.jamix.menu.widgetset.MenuWidgetSet" tabindex=3D"-1" style=
 =3D"position: absolute; width: 0px; height: 0px; border: none; left: -1000p=
-x; top: -1000px;"></iframe></body></html>
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+x; top: -1000px;"></iframe><div id=3D"appsmenu-1186092753-overlays" class=
+=3D"v-app menu menuui v-overlay-container" aria-live=3D"assertive" aria-lab=
+el=3D"This content is announced automatically and does not need to be navig=
+ated into." aria-relevant=3D"additions"><div class=3D"gwt-PopupPanel v-reco=
+nnect-dialog active" style=3D"z-index: 20000; position: absolute; overflow:=
+ visible; visibility: hidden;"><div class=3D"popupContent"><div><div class=
+=3D"gwt-HTML spinner"></div><div class=3D"gwt-Label text"></div></div></div=
+></div><div class=3D"v-tooltip" role=3D"tooltip" aria-live=3D"assertive" ar=
+ia-relevant=3D"additions" style=3D"margin-left: 0px; margin-top: 0px; left:=
+ -4990px; top: -4990px; z-index: 20001; visibility: visible; position: abso=
+lute; overflow: visible;"><div class=3D"popupContent"><div><div class=3D"v-=
+errormessage" aria-hidden=3D"true" style=3D"display: none;"></div><div clas=
+s=3D"v-tooltip-text"><pre class=3D"v-tooltip-pre"> </pre></div></div></div>=
+</div></div></body></html>
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-18e0a2d3-7e22-4469-9a9e-84b79c1b3b55@mhtml.blink
+Content-Location: cid:css-2755de2d-4390-40cf-8516-5a6e3f0744b6@mhtml.blink
 
 @charset "utf-8";
 
 html, body { height: 100%; margin: 0px; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-06eeae7c-83b5-400a-8f72-c3722223e043@mhtml.blink
+
+@charset "utf-8";
+
+.menu .v-Notification .v-Notification-caption, .menu .multiline-button-capt=
+ion-text, .menu .v-panel-caption { color: rgb(92, 123, 132); }
+
+.v-app .v-customlayout-header { background-color: rgb(40, 75, 99); }
+
+.menu .v-loading-indicator { background-color: rgb(40, 75, 99); }
+
+.menu .v-tabsheet-tabitemcell .v-tabsheet-tabitem .v-caption.v-caption:hove=
+r, .menu .v-disabled.v-button-gda .v-button-caption, .menu .v-disabled.v-bu=
+tton-language .v-button-caption { color: rgb(40, 75, 99); }
+
+.menu .v-tabsheet-tabitemcell .v-tabsheet-tabitem-selected .v-caption.v-cap=
+tion:hover, .menu .v-tabsheet-tabitemcell .v-tabsheet-tabitem-selected .v-c=
+aption.v-caption { border-color: rgb(40, 75, 99); color: rgb(40, 75, 99); }
+
+.menu .v-button-multiline:hover, .menu .v-button-multiline:active, .menu .v=
+-button:focus::after { border-color: rgb(40, 75, 99); box-shadow: rgba(40, =
+75, 99, 0.5) 0px 0px 0px 2px; }
+
+.menu .v-button-diet-pressed, .v-button-diet-pressed:hover { box-shadow: rg=
+b(40, 75, 99) 0px 0px 3px 5px inset !important; border: 1px solid rgb(40, 7=
+5, 99) !important; }
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/themes/menu/styles.css?v=8.18.0
@@ -14946,7 +15138,7 @@ nts/custom/fontawesome-webfont.ttf") format("truetype"); }
 .FontAwesome { font-family: FontAwesome; font-style: normal; font-weight: 4=
 00; -webkit-font-smoothing: antialiased; display: inline-block; text-align:=
  center; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: image/gif
 Content-Transfer-Encoding: base64
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/themes/valo/shared/img/spinner.gif
@@ -15079,7 +15271,7 @@ Jsl5U9RgGC7uJH3hEibpIjtlbH6xyijOVC5l0BGaY7PLmkReue6R8yXOHotPXbh0oUOITpczd5BN
 JSXG0xuoH/Gc8UJX0houOW0KerrG6J47ca3aTCRHrlhdZriYGTRZUNZfx7p0udwZmGijdAoLUjwo
 teNCYoS+nr0oEAA7
 
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/ratingstars/styles.css
@@ -15126,7 +15318,7 @@ ges/star_bg_12x11.gif"); }
 
 .v-ratingstars-wrapper-tiny .v-ratingstars-star { background-image: url("im=
 ages/star_12x11.png"); width: 12px; height: 11px; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/filteringtable/styles.css
@@ -15194,7 +15386,7 @@ n !important; }
 .filters-panel .v-checkbox { margin-top: 9px; margin-left: 14px; }
 
 .filters-panel .v-filterselect.v-widget { border-radius: 0px; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/tokenfield/tokenfield.css
@@ -15227,7 +15419,7 @@ ansparent; }
  }
 
 .v-widget.tokenfield .v-csslayout .v-button-link { height: 24px; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/grid-renderers-collection-addon/styles.css
@@ -15235,7 +15427,7 @@ Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/f
 @charset "utf-8";
 
 div.grid-renderers-collection-addon { cursor: pointer; user-select: none; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/popupbutton/popupbutton.css
@@ -15277,7 +15469,7 @@ play: block; }
 portant; }
 
 .v-shadow-fixed { position: fixed !important; z-index: 20000 !important; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/dcharts/styles.css
@@ -15290,7 +15482,7 @@ ound-color: transparent !important; }
 .jqplot-target { font-size: 1.2em !important; }
 
 .jqplot-table-legend .jqplot-series-hidden { filter: grayscale(1); }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/stackpanel/styles.css
@@ -15306,7 +15498,7 @@ div.v-stackpanel .v-stackpanel-toggle:hover { opacity: 1; }
 
 div.v-stackpanel.v-stackpanel-disabled .v-stackpanel-toggle { visibility: h=
 idden; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/fi.jamix.menu.widgetset.MenuWidgetSet/cropper/style.css
@@ -15314,12 +15506,12 @@ Content-Location: https://1387576373.rsc.cdn77.org/MENU/3200/VAADIN/widgetsets/f
 @charset "utf-8";
 
 .img-loading { opacity: 0; }
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs----
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis----
 Content-Type: text/html
-Content-ID: <frame-F780CA58EE510F76F5FB2D5E8E2F1E2F@mhtml.blink>
+Content-ID: <frame-D271BE369DF3743D6E62CCAFCB0837B7@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://fi.jamix.cloud/apps/menu/?anro=93077&k=48&mt=89
 
 <!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
 t/html; charset=3DUTF-8"></head><body></body></html>
-------MultipartBoundary--zDQrXkn54MhMzDyVIrP04pixzEEJK5n71lLJm0PSYs------
+------MultipartBoundary--LolOyQgzvamJT3RD0qltDeT9c9IzaCyM7vjsZh7Jis------
